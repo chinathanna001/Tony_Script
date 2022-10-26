@@ -32,8 +32,8 @@ print("""
     <h2 class="he">Data Science Programs<h2>
         <hr>
 """)
-b='cr.py'
-c='cr.cmd'
+b='tony.py'
+c='tony.cmd'
 d='.gitattributes'
 e='.git'
 f='index.html'
